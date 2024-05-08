@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbd2c1887a808da4b8f0a6cec8d8b890, type: 3}
+  m_Name: ABLine3
+  m_EditorClassIdentifier: 
+  m_Speaker: {fileID: 11400000, guid: c422818f1deef554dad6dd7e9cede774, type: 2}
+  m_Text: So am I worried about the vaccine? Yeah, but I'm even more worried that
+    if they get COVID they might get sick or even die. So, I mean, please don't let
+    anyone force you to do this, or force you to do that.
+  voiceClip: {fileID: 8300000, guid: 2320d3a0aba149c4089d17b589a3ee35, type: 3}
